@@ -1,0 +1,6 @@
+This project predicts house prices based on various features like location, area, number of rooms, etc., using multiple regression models.
+It demonstrates:
+End-to-end ML pipeline
+Data preprocessing
+Model building & evaluation
+Deployment-ready structure
