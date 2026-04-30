@@ -1,0 +1,6 @@
+You can use:
+Kaggle: House Prices Dataset
+Or create a CSV like:
+area,bedrooms,bathrooms,location,price
+1200,2,2,urban,5000000
+1500,3,2,suburban,6500000
