@@ -1,0 +1,24 @@
+house-price-prediction/
+│
+├── data/
+│   ├── raw/
+│   └── processed/
+│
+├── notebooks/
+│   └── EDA.ipynb
+│
+├── src/
+│   ├── data_preprocessing.py
+│   ├── train_model.py
+│   ├── evaluate_model.py
+│   └── predict.py
+│
+├── models/
+│   └── model.pkl
+│
+├── app/
+│   └── app.py
+│
+├── requirements.txt
+├── README.md
+└── .gitignore
